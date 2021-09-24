@@ -21,8 +21,8 @@
 [<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />]
 [<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg" />]
 [<img align="left" alt="Material" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/materialdesign.svg" />]
-[<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />]
-[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
+[<img alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />]
+[<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
 
 
 <br />
