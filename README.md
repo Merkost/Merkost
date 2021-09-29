@@ -25,11 +25,13 @@
 [<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />][nothing]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][nothing]
 
+<br />
+
 ---
 
 <img align="left" alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&hide_border=true" />
 
-<br />
+
 <br />
 
 [nothing]: nothing
