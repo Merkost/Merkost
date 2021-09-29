@@ -31,12 +31,7 @@
 
 <img align="left" alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: Account Top Languages</summary>
 
-  <img align="right" alt="Merkost's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merkost&layout=compact" />
-
-</details>
 
 <br />
 
