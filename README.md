@@ -5,6 +5,7 @@
  - 👯 I’m looking for a job right now as a Junior Android Mobile Developer
  - 🥅 2021 Goals: Finish Fishing Notes and Schedule projects
  - ⚡ Fun fact: I love to play guitar / piano
+ 
 
 ### Connect with me:
 
@@ -24,6 +25,9 @@
 [<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />][nothing]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][nothing]
 
+---
+
+<img align="left" alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&hide_border=true" />
 
 <br />
 <br />
