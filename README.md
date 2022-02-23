@@ -28,6 +28,7 @@
 <br />
 
 ---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /></p>
 
 <p> <img align="left" alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&hide_border=true" /> </p>
 
