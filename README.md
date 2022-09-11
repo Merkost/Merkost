@@ -3,7 +3,7 @@
  - 🔭 I've just started to use Jetpack Compose: [Android’s modern toolkit for building native UI][compose]!
  - 🌱 I’m currently learning everything 🤣
  - 👯 I’m looking for a job right now as a Middle Android Mobile Developer
- - 🥅 2022 Goals: Launch Fishing Notes in Google play!
+ - 🥅 2022 Goals: Own a Backend for Fishing Notes app
  - ⚡ Fun fact: I love to play guitar / piano
  
 
