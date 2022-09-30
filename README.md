@@ -27,17 +27,22 @@
 
 <br />
 
+### My Contribution:
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /> </p>
 
+<br />
 
 ### My Github Stats:
 
 <p align = "center">
-  <img alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&hide_border=true&line_height=27">
+  <img alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=merkost&hide=html,css,hlsl">
 </p>
 
 <br />
+
+### Loved songs:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z06jj2swbhtky0b2zg7kv4dq6)
 
