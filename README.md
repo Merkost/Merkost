@@ -29,7 +29,9 @@
 
 ### My Contribution:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /> </p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /> 
+</p>
 
 <br />
 
@@ -48,7 +50,9 @@
 
 ------------
 
-<p> <img align="end" src="https://komarev.com/ghpvc/?username=merkost&label=Profile%20views&color=0e75b6&style=flat" alt="merkost" /> </p>
+<p align="end"> 
+   <src="https://komarev.com/ghpvc/?username=merkost&label=Profile%20views&color=0e75b6&style=flat" alt="merkost" /> 
+</p>
 
 
 <br />
