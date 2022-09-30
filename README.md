@@ -16,22 +16,22 @@
 ### Languages and Tools:
 
 <p align="center">
-
-   <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
-   <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
-   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
-   <img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
-   <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
-   <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg" />
-   <img align="left" alt="Material" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/materialdesign.svg" />
-   <img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
-   <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-
-   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" />
- 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /> 
 </p>
 
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
+<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
+<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg" />
+<img align="left" alt="Material" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/materialdesign.svg" />
+<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+
 <br />
+
+------------
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /> 
