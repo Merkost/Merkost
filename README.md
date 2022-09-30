@@ -31,13 +31,15 @@
 
 ------------
 
+### My Github Stats:
+
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /> 
 </p>
 
 <br />
 
-### My Github Stats:
+
 
 <p align = "center">
   <img alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&line_height=27">
