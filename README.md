@@ -37,11 +37,12 @@
 
 ------------
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z06jj2swbhtky0b2zg7kv4dq6)
+
+------------
 
 <p> <img align="center" src="https://komarev.com/ghpvc/?username=merkost&label=Profile%20views&color=0e75b6&style=flat" alt="merkost" /> </p>
 
-------------
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z06jj2swbhtky0b2zg7kv4dq6)
 
 <br />
 
