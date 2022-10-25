@@ -1,9 +1,10 @@
 ## Hi there, I'm Kostya - aka Merkost 👋
 
- - 🔭 I've just started to use Jetpack Compose: [Android’s modern toolkit for building native UI][compose]!
- - 🌱 I’m currently learning everything 🤣
+ - 🔭 I've started to use Jetpack Compose since 2020: [Android’s modern toolkit for building native UI][compose]!
+ - 🌱 I’m currently learning Swift and Flutter
  - 👯 I’m looking for a job right now as a Middle Android Mobile Developer
- - 🥅 2022 Goals: Own a Backend for Fishing Notes app
+ - 🥅 2022 Goals: Finish a Backend for Fishing Notes app
+ - ⌚ Currently, I'm developing Ktor backend server and improving food delivery app
  - ⚡ Fun fact: I love to play guitar / piano
  
 
