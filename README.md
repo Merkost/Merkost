@@ -10,25 +10,23 @@
 
 ### Connect with me:
 
-<a href="https://t.me/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/telegram.svg" alt="merkost" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="merkost" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15419983/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="merkost" height="30" width="40" /></a>
+<p align="left"> 
+  <a href="https://t.me/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/telegram.svg" alt="merkost" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="merkost" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/15419983/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="merkost" height="30" width="40" /></a>
 </p>
 
 <br />
 
 ### Languages and Tools:
 
-<p align="center">
-  <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
-  <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
-  <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
-  <img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
-  <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
-  <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg" />
-  <img align="left" alt="Material" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/materialdesign.svg" />
-  <img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
-  <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/> </a>
+  <a href="https://docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  
 </p>
 
 <br />
