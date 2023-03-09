@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="@merkost | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/telegram.svg" />][telegram]
-
 <a href="https://t.me/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/telegram.svg" alt="merkost" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="merkost" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15419983/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="merkost" height="30" width="40" /></a>
