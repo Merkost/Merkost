@@ -3,7 +3,7 @@
  - 🔭 I've started to use Jetpack Compose since 2020: [Android’s modern toolkit for building native UI][compose]!
  - 🌱 I’m currently learning Swift and KMM
  - 👯 I’m looking for a job right now as a Middle Android Mobile Developer
- - 🥅 2023 Goals: Finish my first KMM Project
+ - 🥅 2024 Goals: Finish my first KMM Project
  - ⌚ Currently, I'm developing Ktor backend server and improving food delivery app
  - ⚡ Fun fact: I love to play guitar / piano
  
