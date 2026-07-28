@@ -1,72 +1,38 @@
-## Hi there, I'm Kostya - aka Merkost 👋
+<img
+  src="./assets/merkost-object-signal-hero.png"
+  alt="Minimal sculptural Merkost M form on black"
+  width="100%"
+/>
 
- - 🔭 I've started to use Jetpack Compose since 2020: [Android’s modern toolkit for building native UI][compose]!
- - 🌱 I’m currently learning Swift and KMM
- - 👯 I’m looking for a job right now as a Middle Android Mobile Developer
- - 🥅 2024 Goals: Finish my first KMM Project
- - ⌚ Currently, I'm developing Ktor backend server and improving food delivery app
- - ⚡ Fun fact: I love to play guitar / piano
- 
+# Hi, I’m Kos.
 
-### Connect with me:
+I build mobile apps under the name **Merkost**.
 
-<p align="left"> 
-  <a href="https://t.me/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/telegram.svg" alt="merkost" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="merkost" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/15419983/merkost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="merkost" height="30" width="40" /></a>
-</p>
+Kotlin, Compose and Kotlin Multiplatform. Based in Sydney.
 
-<br />
+## Apps
 
-### Languages and Tools:
+- [Suby](https://play.google.com/store/apps/details?id=com.merkost.suby) — track subscriptions, renewals and recurring spend.
+- [Metronome](https://github.com/Merkost/Metronome) — a focused metronome built with Kotlin Multiplatform and Compose Multiplatform.
+- [Fishing Notes](https://github.com/Merkost/FishingNotes) — save fishing spots, log catches and check conditions.
+- [Android Drawable Preview](https://github.com/Merkost/Android-drawable-preview-plugin) — rendered drawable previews inside Android Studio and IntelliJ IDEA.
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
-  <a href="https://docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+## Kimplify
 
-</p>
+I maintain [Kimplify](https://github.com/Kimplify), a focused set of Kotlin Multiplatform libraries:
 
-<br />
+- [Deci](https://github.com/Kimplify/Deci) — precise decimal arithmetic.
+- [Kurrency](https://github.com/Kimplify/Kurrency) — type-safe, locale-aware currency formatting.
+- [Cedar Logger](https://github.com/Kimplify/Cedar-Logger) — lightweight, extensible logging.
+- [KCountries](https://github.com/Kimplify/KCountries) — ISO 3166-1 country data with native names and translations.
 
-------------
+## Writing
 
-### My Github Stats:
+- [Floating Point Can’t Hold a Cent. BigDecimal Can—Until `commonMain`.](https://medium.com/proandroiddev/floating-point-cant-hold-a-cent-bigdecimal-can-until-commonmain-0ba3d6c49115)
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=merkost&" alt="merkost" /> 
-</p>
+## Find me
 
-<br />
-
-
-
-<p align = "center">
-  <img alt="Merkost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=merkost&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=merkost&hide=html,css,hlsl">
-</p>
-
-<br />
-
-<!--
-### Loved songs:
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z06jj2swbhtky0b2zg7kv4dq6)
--->
-------------
-
-<p align="end"> 
-   <img src="https://komarev.com/ghpvc/?username=merkost&label=Profile%20views&color=0e75b6&style=flat" alt="merkost" /> 
-</p>
- 
-
-
-
-
-<br />
-
-[nothing]: nothing
-[telegram]: https://t.me/merkost
-[compose]: https://developer.android.com/jetpack/compose
+- [merkost.dev](https://merkost.dev)
+- [GitHub](https://github.com/Merkost)
+- [LinkedIn](https://www.linkedin.com/in/merkost)
+- [Telegram](https://t.me/merkost)
