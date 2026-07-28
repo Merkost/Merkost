@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Merkost — mobile app developer</title>
+  <desc id="desc">A warm paper-toned technical specimen with Merkost typography and a sculptural M signal.</desc>
+  <defs>
+    <clipPath id="card">
+      <rect width="1280" height="320" rx="28"/>
+    </clipPath>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#171717" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4F1EB"/>
+      <stop offset="1" stop-color="#E9E5DC"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="320" fill="url(#paper)"/>
+    <rect width="1280" height="320" fill="url(#grid)"/>
+
+    <path d="M674-44 1026-44 706 276 354 276Z" fill="#171717" opacity=".035"/>
+    <path d="M1006 110 1318 110 1138 290 826 290Z" fill="#171717" opacity=".045"/>
+    <path d="M0 270H1280" stroke="#171717" stroke-opacity=".12"/>
+
+    <g fill="#171717" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif">
+      <text x="60" y="55" font-size="12" font-weight="650" letter-spacing="3.2">MERKOST / MOBILE APP DEVELOPER</text>
+      <text x="60" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-style="italic" font-weight="700" letter-spacing="-4">merkost</text>
+      <rect x="61" y="171" width="52" height="5" rx="2.5" fill="#171717"/>
+      <rect x="117" y="171" width="8" height="5" rx="2.5" fill="#C7F36B"/>
+      <text x="60" y="221" font-size="13" font-weight="620" letter-spacing="2.2">MOBILE · COMPOSE · MULTIPLATFORM</text>
+      <text x="60" y="252" font-size="11" font-weight="520" letter-spacing="1.65" opacity=".58">SHARED CODE SHOULD STILL FEEL DELIBERATE.</text>
+      <text x="1207" y="55" font-size="11" font-weight="650" letter-spacing="2" text-anchor="end" opacity=".48">SYD / 01</text>
+    </g>
+
+    <path d="M806 229C852 229 861 82 914 82S973 229 1024 229 1085 82 1138 82s62 147 106 147"
+      fill="none" stroke="#AAA69D" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M806 229C852 229 861 82 914 82S973 229 1024 229 1085 82 1138 82s62 147 106 147"
+      fill="none" stroke="#171717" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M816 243C864 233 889 236 929 238s79 4 121-1 77-7 116-2 58 8 79 4"
+      fill="none" stroke="#8D8981" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="1245" cy="239" r="4" fill="#C7F36B"/>
+  </g>
+</svg>
