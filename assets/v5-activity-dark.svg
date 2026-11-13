@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 226" width="830" height="226" role="img" aria-labelledby="t d">
+  <title id="t">GitHub contributions, last 12 months</title>
+  <desc id="d">11,191 contributions from 9 Nov 2025 to 13 Nov 2026. Longest streak 55 days, 15 Jun to 8 Aug 2026. Active on 252 of 370 days. One square per day; brighter squares are busier days.</desc>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;font-variant-numeric:tabular-nums}
+    .ink{fill:#f0f6fc}
+    .mut{fill:#9198a1}
+    .s{font-size:10px;fill:#9198a1}
+    .card{fill:none;stroke:#3d444d}
+    .brk{fill:none;stroke:#656c76}
+    .e{fill:#f0f6fc;fill-opacity:.08}
+    .a{fill:#50351f}
+    .b{fill:#865328}
+    .c{fill:#c17232}
+    .d{fill:#fb923c}
+    @keyframes cell{from{opacity:0}}
+    @media (prefers-reduced-motion:no-preference){.w{animation:cell .5s ease-out both;animation-delay:calc(var(--i)*12ms)}}
+  </style>
+  <defs>
+    <rect id="r0" y="84" width="11" height="11" rx="2.5"/>
+    <rect id="r1" y="98" width="11" height="11" rx="2.5"/>
+    <rect id="r2" y="112" width="11" height="11" rx="2.5"/>
+    <rect id="r3" y="126" width="11" height="11" rx="2.5"/>
+    <rect id="r4" y="140" width="11" height="11" rx="2.5"/>
+    <rect id="r5" y="154" width="11" height="11" rx="2.5"/>
+    <rect id="r6" y="168" width="11" height="11" rx="2.5"/>
+  </defs>
+  <rect x=".5" y=".5" width="829" height="225" rx="14" class="card"/>
+
+  <text x="28" y="48"><tspan font-size="28" font-weight="700" letter-spacing="-.5" class="ink">11,191</tspan><tspan dx="9" font-size="13" class="mut">contributions in the last 12 months</tspan></text>
+  <text x="802" y="48" text-anchor="end" font-size="13" class="mut"><tspan font-weight="600" class="ink">55</tspan> day longest streak<tspan dx="10">·</tspan><tspan dx="10" font-weight="600" class="ink">252</tspan> active days</text>
+
+  <!-- Month labels sit on the week that holds the 1st: x = 63 + 14 × week -->
+  <g class="s">
+    <text x="63" y="74">Nov</text>
+    <text x="105" y="74">Dec</text>
+    <text x="161" y="74">Jan</text>
+    <text x="231" y="74">Feb</text>
+    <text x="287" y="74">Mar</text>
+    <text x="343" y="74">Apr</text>
+    <text x="399" y="74">May</text>
+    <text x="469" y="74">Jun</text>
+    <text x="525" y="74">Jul</text>
+    <text x="581" y="74">Aug</text>
+    <text x="651" y="74">Sep</text>
+    <text x="707" y="74">Oct</text>
+    <text x="777" y="74">Nov</text>
+    <text x="28" y="107">Mon</text>
+    <text x="28" y="135">Wed</text>
+    <text x="28" y="163">Fri</text>
+  </g>
+
+  <!-- 53 weeks from Sun 9 Nov 2025; rows Sun to Sat. Levels: e 0, a 1-9, b 10-39, c 40-99, d 100+ -->
+  <g class="w" style="--i:0" transform="translate(63)"><use href="#r0" class="a"/><use href="#r1" class="e"/><use href="#r2" class="b"/><use href="#r3" class="e"/><use href="#r4" class="a"/><use href="#r5" class="a"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:1" transform="translate(77)"><use href="#r0" class="a"/><use href="#r1" class="e"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:2" transform="translate(91)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="e"/><use href="#r3" class="a"/><use href="#r4" class="a"/><use href="#r5" class="a"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:3" transform="translate(105)"><use href="#r0" class="a"/><use href="#r1" class="e"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:4" transform="translate(119)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="a"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:5" transform="translate(133)"><use href="#r0" class="e"/><use href="#r1" class="a"/><use href="#r2" class="e"/><use href="#r3" class="a"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:6" transform="translate(147)"><use href="#r0" class="b"/><use href="#r1" class="b"/><use href="#r2" class="b"/><use href="#r3" class="e"/><use href="#r4" class="a"/><use href="#r5" class="a"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:7" transform="translate(161)"><use href="#r0" class="a"/><use href="#r1" class="a"/><use href="#r2" class="a"/><use href="#r3" class="e"/><use href="#r4" class="b"/><use href="#r5" class="e"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:8" transform="translate(175)"><use href="#r0" class="e"/><use href="#r1" class="a"/><use href="#r2" class="b"/><use href="#r3" class="a"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:9" transform="translate(189)"><use href="#r0" class="e"/><use href="#r1" class="a"/><use href="#r2" class="a"/><use href="#r3" class="a"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:10" transform="translate(203)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="a"/><use href="#r3" class="a"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:11" transform="translate(217)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="e"/><use href="#r3" class="a"/><use href="#r4" class="a"/><use href="#r5" class="a"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:12" transform="translate(231)"><use href="#r0" class="a"/><use href="#r1" class="a"/><use href="#r2" class="a"/><use href="#r3" class="a"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:13" transform="translate(245)"><use href="#r0" class="e"/><use href="#r1" class="a"/><use href="#r2" class="e"/><use href="#r3" class="a"/><use href="#r4" class="a"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:14" transform="translate(259)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="a"/><use href="#r5" class="a"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:15" transform="translate(273)"><use href="#r0" class="b"/><use href="#r1" class="a"/><use href="#r2" class="e"/><use href="#r3" class="b"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:16" transform="translate(287)"><use href="#r0" class="a"/><use href="#r1" class="a"/><use href="#r2" class="a"/><use href="#r3" class="e"/><use href="#r4" class="a"/><use href="#r5" class="a"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:17" transform="translate(301)"><use href="#r0" class="a"/><use href="#r1" class="a"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="a"/><use href="#r5" class="e"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:18" transform="translate(315)"><use href="#r0" class="e"/><use href="#r1" class="a"/><use href="#r2" class="a"/><use href="#r3" class="e"/><use href="#r4" class="a"/><use href="#r5" class="e"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:19" transform="translate(329)"><use href="#r0" class="b"/><use href="#r1" class="b"/><use href="#r2" class="b"/><use href="#r3" class="d"/><use href="#r4" class="b"/><use href="#r5" class="b"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:20" transform="translate(343)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="a"/><use href="#r3" class="b"/><use href="#r4" class="b"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:21" transform="translate(357)"><use href="#r0" class="c"/><use href="#r1" class="c"/><use href="#r2" class="b"/><use href="#r3" class="d"/><use href="#r4" class="d"/><use href="#r5" class="a"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:22" transform="translate(371)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="c"/><use href="#r3" class="c"/><use href="#r4" class="c"/><use href="#r5" class="b"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:23" transform="translate(385)"><use href="#r0" class="d"/><use href="#r1" class="c"/><use href="#r2" class="b"/><use href="#r3" class="c"/><use href="#r4" class="e"/><use href="#r5" class="c"/><use href="#r6" class="c"/></g>
+  <g class="w" style="--i:24" transform="translate(399)"><use href="#r0" class="b"/><use href="#r1" class="e"/><use href="#r2" class="d"/><use href="#r3" class="a"/><use href="#r4" class="b"/><use href="#r5" class="e"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:25" transform="translate(413)"><use href="#r0" class="c"/><use href="#r1" class="d"/><use href="#r2" class="b"/><use href="#r3" class="b"/><use href="#r4" class="a"/><use href="#r5" class="a"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:26" transform="translate(427)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="c"/><use href="#r3" class="c"/><use href="#r4" class="a"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:27" transform="translate(441)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:28" transform="translate(455)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:29" transform="translate(469)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="e"/><use href="#r3" class="e"/><use href="#r4" class="e"/><use href="#r5" class="b"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:30" transform="translate(483)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="c"/><use href="#r3" class="c"/><use href="#r4" class="c"/><use href="#r5" class="d"/><use href="#r6" class="c"/></g>
+  <g class="w" style="--i:31" transform="translate(497)"><use href="#r0" class="e"/><use href="#r1" class="d"/><use href="#r2" class="d"/><use href="#r3" class="d"/><use href="#r4" class="c"/><use href="#r5" class="c"/><use href="#r6" class="c"/></g>
+  <g class="w" style="--i:32" transform="translate(511)"><use href="#r0" class="b"/><use href="#r1" class="d"/><use href="#r2" class="d"/><use href="#r3" class="b"/><use href="#r4" class="c"/><use href="#r5" class="c"/><use href="#r6" class="c"/></g>
+  <g class="w" style="--i:33" transform="translate(525)"><use href="#r0" class="b"/><use href="#r1" class="b"/><use href="#r2" class="c"/><use href="#r3" class="a"/><use href="#r4" class="c"/><use href="#r5" class="c"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:34" transform="translate(539)"><use href="#r0" class="a"/><use href="#r1" class="d"/><use href="#r2" class="c"/><use href="#r3" class="b"/><use href="#r4" class="c"/><use href="#r5" class="d"/><use href="#r6" class="c"/></g>
+  <g class="w" style="--i:35" transform="translate(553)"><use href="#r0" class="c"/><use href="#r1" class="d"/><use href="#r2" class="d"/><use href="#r3" class="c"/><use href="#r4" class="c"/><use href="#r5" class="d"/><use href="#r6" class="d"/></g>
+  <g class="w" style="--i:36" transform="translate(567)"><use href="#r0" class="c"/><use href="#r1" class="d"/><use href="#r2" class="d"/><use href="#r3" class="c"/><use href="#r4" class="c"/><use href="#r5" class="c"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:37" transform="translate(581)"><use href="#r0" class="b"/><use href="#r1" class="d"/><use href="#r2" class="c"/><use href="#r3" class="b"/><use href="#r4" class="b"/><use href="#r5" class="b"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:38" transform="translate(595)"><use href="#r0" class="a"/><use href="#r1" class="a"/><use href="#r2" class="a"/><use href="#r3" class="b"/><use href="#r4" class="a"/><use href="#r5" class="b"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:39" transform="translate(609)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="c"/><use href="#r3" class="c"/><use href="#r4" class="d"/><use href="#r5" class="b"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:40" transform="translate(623)"><use href="#r0" class="a"/><use href="#r1" class="b"/><use href="#r2" class="b"/><use href="#r3" class="b"/><use href="#r4" class="b"/><use href="#r5" class="b"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:41" transform="translate(637)"><use href="#r0" class="a"/><use href="#r1" class="c"/><use href="#r2" class="d"/><use href="#r3" class="c"/><use href="#r4" class="d"/><use href="#r5" class="c"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:42" transform="translate(651)"><use href="#r0" class="e"/><use href="#r1" class="a"/><use href="#r2" class="c"/><use href="#r3" class="c"/><use href="#r4" class="d"/><use href="#r5" class="d"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:43" transform="translate(665)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="c"/><use href="#r3" class="a"/><use href="#r4" class="d"/><use href="#r5" class="d"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:44" transform="translate(679)"><use href="#r0" class="b"/><use href="#r1" class="c"/><use href="#r2" class="b"/><use href="#r3" class="b"/><use href="#r4" class="e"/><use href="#r5" class="e"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:45" transform="translate(693)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="c"/><use href="#r3" class="a"/><use href="#r4" class="c"/><use href="#r5" class="c"/><use href="#r6" class="a"/></g>
+  <g class="w" style="--i:46" transform="translate(707)"><use href="#r0" class="e"/><use href="#r1" class="c"/><use href="#r2" class="c"/><use href="#r3" class="b"/><use href="#r4" class="b"/><use href="#r5" class="a"/><use href="#r6" class="c"/></g>
+  <g class="w" style="--i:47" transform="translate(721)"><use href="#r0" class="e"/><use href="#r1" class="e"/><use href="#r2" class="b"/><use href="#r3" class="b"/><use href="#r4" class="b"/><use href="#r5" class="b"/><use href="#r6" class="c"/></g>
+  <g class="w" style="--i:48" transform="translate(735)"><use href="#r0" class="a"/><use href="#r1" class="c"/><use href="#r2" class="d"/><use href="#r3" class="b"/><use href="#r4" class="b"/><use href="#r5" class="b"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:49" transform="translate(749)"><use href="#r0" class="e"/><use href="#r1" class="b"/><use href="#r2" class="d"/><use href="#r3" class="c"/><use href="#r4" class="b"/><use href="#r5" class="b"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:50" transform="translate(763)"><use href="#r0" class="e"/><use href="#r1" class="c"/><use href="#r2" class="d"/><use href="#r3" class="d"/><use href="#r4" class="d"/><use href="#r5" class="c"/><use href="#r6" class="b"/></g>
+  <g class="w" style="--i:51" transform="translate(777)"><use href="#r0" class="b"/><use href="#r1" class="d"/><use href="#r2" class="d"/><use href="#r3" class="c"/><use href="#r4" class="d"/><use href="#r5" class="c"/><use href="#r6" class="e"/></g>
+  <g class="w" style="--i:52" transform="translate(791)"><use href="#r0" class="e"/><use href="#r1" class="c"/><use href="#r2" class="c"/><use href="#r3" class="b"/><use href="#r4" class="b"/><use href="#r5" class="a"/></g>
+
+  <!-- Longest streak: Mon 15 Jun to Sat 8 Aug, weeks 31 to 38 -->
+  <path d="M497.5 183.5v3h108v-3" class="brk"/>
+  <text x="551.5" y="203" text-anchor="middle" class="s">longest streak, 15 Jun – 8 Aug</text>
+
+  <text x="28" y="203" class="s">Snapshot 13 Nov 2026</text>
+  <text x="700" y="203" text-anchor="end" class="s">Less</text>
+  <use href="#r0" x="706" y="110" class="e"/>
+  <use href="#r0" x="720" y="110" class="a"/>
+  <use href="#r0" x="734" y="110" class="b"/>
+  <use href="#r0" x="748" y="110" class="c"/>
+  <use href="#r0" x="762" y="110" class="d"/>
+  <text x="802" y="203" text-anchor="end" class="s">More</text>
+</svg>

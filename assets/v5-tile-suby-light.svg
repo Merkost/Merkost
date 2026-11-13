@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.5 132" width="207.5" height="132" role="img" aria-labelledby="t d">
+  <title id="t">Suby</title>
+  <desc id="d">App. Subscription tracker on the App Store and Google Play.</desc>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+    .ink{fill:#1f2328}
+    .mut{fill:#59636e}
+    .tag{font-size:9.5px;font-weight:600;letter-spacing:.8px;text-anchor:end;fill:#59636e}
+    .card{fill:none;stroke:#d1d9e0}
+    .edge{fill:none;stroke:#1f2328;stroke-opacity:.12}
+  </style>
+  <defs><clipPath id="lg"><rect width="40" height="40" rx="10"/></clipPath></defs>
+  <!-- Tile 1 of 4. The card is 200 wide and sits at x 0 of the 207.5 artboard; the four tiles sit at 0, 2.5, 5 and 7.5 so four 25% images leave three 10px gaps. -->
+  <g>
+    <rect x=".5" y=".5" width="199" height="131" rx="14" class="card"/>
+    <g transform="translate(16 16)">
+      <g clip-path="url(#lg)">
+        <rect width="40" height="40" fill="#fff"/>
+        <path transform="translate(1.15 1.1) scale(.05)" fill="#0d0a0c" d="M527.42,566.98C516.38,577.13 502.04,582.71 487.05,582.71L383.99,582.71L395.93,571.58C423.03,546.31 424.78,503.47 399.83,476.07L222.32,281.16C198.13,254.59 199.98,213.23 226.44,188.94C237.49,178.79 251.85,173.2 266.86,173.2L369.21,173.2L357.91,183.57C330.4,208.82 328.47,251.83 353.62,279.44L531.52,474.79C555.7,501.33 553.85,542.69 527.42,566.98ZM226.64,487.34L252.7,463.52C263.2,453.93 276.82,449.01 291.01,449.65C305.22,450.3 318.31,456.45 327.9,466.98L329.97,469.25L329.97,469.25L365.03,507.75C372.72,516.19 372.18,529.38 363.83,537.16L314.98,582.71L314.63,582.71L226.64,487.34ZM530.96,268.57L502.83,294.27C492.34,303.88 478.75,308.76 464.52,308.14C450.33,307.49 437.24,301.35 427.66,290.85L388.41,247.76C380.67,239.25 381.26,226.01 389.73,218.24L438.8,173.2L442.97,173.2L530.96,268.57ZM484.85,353.65C503.27,350.35 520.43,341.95 534.58,329.01L597.61,271.42L463.58,126.14L429.63,126.14L410.25,126.14L266.86,126.14C240.03,126.14 214.37,136.12 194.61,154.27C149.12,196.04 145.93,267.17 187.52,312.84L270.7,404.17C252.28,407.46 235.1,415.85 220.95,428.78L159.99,484.5L294.02,629.77L324.25,629.77L347.36,629.77L487.05,629.77C513.86,629.77 539.51,619.78 559.26,601.63C604.72,559.86 607.89,488.74 566.32,443.1L484.85,353.65"/>
+      </g>
+      <rect x=".5" y=".5" width="39" height="39" rx="9.5" class="edge"/>
+    </g>
+    <text x="184" y="31" class="tag">APP</text>
+    <text x="16" y="84" font-size="15" font-weight="600" class="ink">Suby</text>
+    <text x="16" y="102" font-size="11.5" class="mut">Subscription tracker</text>
+    <text x="16" y="118" font-size="11.5" class="mut">App Store &amp; Google Play</text>
+  </g>
+</svg>

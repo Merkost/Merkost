@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.5 132" width="207.5" height="132" role="img" aria-labelledby="t d">
+  <title id="t">StandupBot</title>
+  <desc id="d">Tool. Daily standups drafted by Claude from Slack, Linear and GitHub.</desc>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+    .ink{fill:#f0f6fc}
+    .mut{fill:#9198a1}
+    .tag{font-size:9.5px;font-weight:600;letter-spacing:.8px;text-anchor:end;fill:#9198a1}
+    .card{fill:none;stroke:#3d444d}
+    .edge{fill:none;stroke:#f0f6fc;stroke-opacity:.16}
+  </style>
+  <defs>
+    <clipPath id="lg"><rect width="40" height="40" rx="10"/></clipPath>
+    <radialGradient id="halo" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#5E6AD2" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#1A1A2E" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Tile 3 of 4: card at x 5 -->
+  <g transform="translate(5 0)">
+    <rect x=".5" y=".5" width="199" height="131" rx="14" class="card"/>
+    <g transform="translate(16 16)">
+      <!-- src/assets/logos/standupbot.svg at 1:1, unchanged; the hairline keeps the dark tile off the dark page -->
+      <g clip-path="url(#lg)">
+        <rect width="40" height="40" fill="#0A0A12"/>
+        <rect width="40" height="40" fill="url(#halo)"/>
+        <g transform="translate(10,9)" fill="none" stroke="#A5ADEF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.5">
+          <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/>
+        </g>
+        <g transform="translate(8,8)" fill="#FFFFFF">
+          <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/>
+        </g>
+      </g>
+      <rect x=".5" y=".5" width="39" height="39" rx="9.5" class="edge"/>
+    </g>
+    <text x="184" y="31" class="tag">TOOL</text>
+    <text x="16" y="84" font-size="15" font-weight="600" class="ink">StandupBot</text>
+    <text x="16" y="102" font-size="11.5" class="mut">Claude-drafted standups</text>
+    <text x="16" y="118" font-size="11.5" class="mut">Slack · Linear · GitHub</text>
+  </g>
+</svg>
