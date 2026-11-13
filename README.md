@@ -1,39 +1,16 @@
-<img
-  src="./assets/merkost-paper-specimen.svg"
-  alt="Merkost — mobile app developer, Compose and Kotlin Multiplatform"
-  width="100%"
-/>
+<p><a href="https://merkost.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-header-dark.svg"><img src="assets/v5-header-light.svg" width="100%" alt="Konstantin Merenkov. Mobile engineer: Kotlin Multiplatform, Android and iOS. Sydney, Australia."></picture></a></p>
 
-# Hi, I’m Kos.
+<p>I build mobile apps and the servers behind them in Kotlin, and ship them myself.</p>
 
-I build mobile apps under the name **Merkost** — with Compose and Kotlin Multiplatform, based in Sydney.
+<p><a href="https://merkost.com/resume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-stack-dark.svg"><img src="assets/v5-stack-light.svg" width="100%" alt="Stack: Kotlin, Compose Multiplatform, Android, Swift, Ktor, Supabase, TypeScript, Claude."></picture></a></p>
 
-## Apps
+<p><a href="https://merkost.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-activity-dark.svg"><img src="assets/v5-activity-light.svg" width="100%" alt="11,191 contributions in the last 12 months. Longest streak 55 days. Active on 252 days."></picture></a></p>
 
-- [Suby](https://subyapp.com) — track subscriptions, renewals and recurring spend.
-- [Metronome](https://github.com/Merkost/Metronome) — a focused metronome built with Kotlin Multiplatform and Compose Multiplatform.
-- [Fishing Notes](https://github.com/Merkost/FishingNotes) — save fishing spots, log catches and check conditions.
-- [Android Drawable Preview](https://github.com/Merkost/Android-drawable-preview-plugin) — rendered drawable previews inside Android Studio and IntelliJ IDEA.
+<p><a href="https://merkost.com/projects/suby"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-tile-suby-dark.svg"><img src="assets/v5-tile-suby-light.svg" width="25%" alt="Suby: subscription tracker on the App Store and Google Play."></picture></a><a href="https://github.com/Kimplify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-tile-kimplify-dark.svg"><img src="assets/v5-tile-kimplify-light.svg" width="25%" alt="Kimplify: open source money libraries for Kotlin Multiplatform, Deci and Kurrency."></picture></a><a href="https://merkost.com/projects/standupbot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-tile-standupbot-dark.svg"><img src="assets/v5-tile-standupbot-light.svg" width="25%" alt="StandupBot: daily standups drafted by Claude."></picture></a><a href="https://merkost.com/projects/sleke"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-tile-sleke-dark.svg"><img src="assets/v5-tile-sleke-light.svg" width="25%" alt="SLEKE.: Android apps for the Enough Phone, client work."></picture></a></p>
 
-## Kimplify
+<p><sub>Writing on ProAndroidDev</sub><br>
+<a href="https://proandroiddev.com/floating-point-cant-hold-a-cent-bigdecimal-can-until-commonmain-0ba3d6c49115">Floating point can't hold a cent. BigDecimal can, until commonMain.</a><br>
+<a href="https://proandroiddev.com/kpayment-cross-platform-apple-pay-google-pay-for-kotlin-multiplatform-032ebc64ff78">KPayment: Cross-Platform Apple Pay &amp; Google Pay for Kotlin Multiplatform</a><br>
+<a href="https://proandroiddev.com/type-safe-bottom-navigation-in-jetpack-compose-d18c4d76ac1a">Type Safe Bottom Navigation in Jetpack Compose</a></p>
 
-I maintain [Kimplify](https://github.com/Kimplify), a focused set of Kotlin Multiplatform libraries:
-
-- [Deci](https://github.com/Kimplify/Deci) — precise decimal arithmetic.
-- [Kurrency](https://github.com/Kimplify/Kurrency) — type-safe, locale-aware currency formatting.
-- [Cedar Logger](https://github.com/Kimplify/Cedar-Logger) — lightweight, extensible logging.
-- [KCountries](https://github.com/Kimplify/KCountries) — ISO 3166-1 country data with native names and translations.
-
-## Writing
-
-- [Floating Point Can’t Hold a Cent. BigDecimal Can—Until `commonMain`.](https://medium.com/proandroiddev/floating-point-cant-hold-a-cent-bigdecimal-can-until-commonmain-0ba3d6c49115)
-- [KPayment: Cross-Platform Apple Pay & Google Pay for Kotlin Multiplatform](https://proandroiddev.com/kpayment-cross-platform-apple-pay-google-pay-for-kotlin-multiplatform-032ebc64ff78)
-
-## Find me
-
-- [merkost.dev](https://merkost.dev)
-- [Portfolio](https://merkost.notion.site/Portfolio-07e5d0d3944548f49f40851fc39e6546)
-- [Resume](https://merkost.notion.site/Resume-92d5e73991e54164814dbdacd3106de9)
-- [GitHub](https://github.com/Merkost)
-- [LinkedIn](https://www.linkedin.com/in/merkost)
-- [Telegram](https://t.me/merkost)
+<p><a href="https://merkost.com"><img src="assets/v5-icon-web.svg" width="16" height="16" align="absmiddle" alt="">&nbsp;merkost.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:kosta0212@gmail.com"><img src="assets/v5-icon-mail.svg" width="16" height="16" align="absmiddle" alt="">&nbsp;Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/merkost"><img src="assets/v5-icon-linkedin.svg" width="16" height="16" align="absmiddle" alt="">&nbsp;LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://medium.com/@merkost"><img src="assets/v5-icon-medium.svg" width="16" height="16" align="absmiddle" alt="">&nbsp;Medium</a></p>
