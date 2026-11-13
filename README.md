@@ -1,4 +1,4 @@
-<p><a href="https://merkost.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-header-dark.svg"><img src="assets/v5-header-light.svg" width="100%" alt="Konstantin Merenkov. Mobile engineer: Kotlin Multiplatform, Android and iOS. Sydney, Australia."></picture></a></p>
+<p><a href="https://merkost.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5-header-dark-2.svg"><img src="assets/v5-header-light-2.svg" width="100%" alt="Konstantin Merenkov. Mobile engineer: Kotlin Multiplatform, Android and iOS. Sydney, Australia."></picture></a></p>
 
 <p>I build mobile apps and the servers behind them in Kotlin, and ship them myself.</p>
 
